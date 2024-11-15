@@ -18,7 +18,9 @@ da tela para finalizar o programa!
 alvo = cv.imread('./imagens/alvo.png')
 largura_alvo, comprimento_alvo = alvo.shape[:2]
 
+# iniciando o looping principal
 print('INICIANDO O BOT...\n')
+
 while True:
     # verificando se a tecla ESC foi pressionada
     if keyboard.is_pressed('esc'):
