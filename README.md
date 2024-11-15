@@ -1,4 +1,4 @@
-# Bot-Tiro-ao-Alvo
+# Bot-Tiro-Ao-Alvo
 
 ## Descrição
 Um bot feito para o jogo https://mouseaccuracy.com/, ele é capaz de detectar e clicar nos alvos encontrados na tela à medida que eles vão aparecendo.
