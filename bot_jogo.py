@@ -19,7 +19,6 @@ alvo = cv.imread('./imagens/alvo.png')
 largura_alvo, comprimento_alvo = alvo.shape[:2]
 
 print('INICIANDO O BOT...\n')
-
 while True:
     # verificando se a tecla ESC foi pressionada
     if keyboard.is_pressed('esc'):
@@ -47,5 +46,5 @@ while True:
         centro_x = x + (comprimento//2)
         centro_y = y + (largura//2)
         pyautogui.click(centro_x, centro_y)
-
+        
 print('\nFINALIZANDO O BOT...')
