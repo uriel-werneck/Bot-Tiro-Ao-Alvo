@@ -11,7 +11,9 @@ O bot detecta os alvos na tela e clica automaticamente à medida que eles aparec
 - **Manipulação de Imagens:** Pillow
 
 # 📦 Instalação das Dependências
+```bash
 pip install -r requirements.txt
+```
 
 ## 📊 Demonstração
 ![gif_bot](https://github.com/user-attachments/assets/aab93f66-584c-4ba6-8bc5-2b77deee481c)
