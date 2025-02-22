@@ -1,13 +1,17 @@
-# Bot-Tiro-Ao-Alvo
+# 🎯 Bot-Tiro-Ao-Alvo
 
-## Descrição
-Um bot feito para o jogo https://mouseaccuracy.com/, ele é capaz de detectar e clicar nos alvos encontrados na tela à medida que eles vão aparecendo.
+## 📄 Descrição
+O Bot-Tiro-Ao-Alvo é uma aplicação de Visão Computacional desenvolvida para automatizar o jogo Mouse Accuracy.
+O bot detecta os alvos na tela e clica automaticamente à medida que eles aparecem, proporcionando uma pontuação impressionante no jogo!
 
-## Bibliotecas
-- opencv-python
-- pyautogui
-- keyboard
-- pillow
+## 🚀 Tecnologias Utilizadas
+- **Visão Computacional:** OpenCV
+- **Automação de Interface:** pyautogui
+- **Controle de Teclado:** keyboard
+- **Manipulação de Imagem:** pillow
 
-## Resultado
+# 📦 Instalação das Dependências
+pip install -r requirements.txt
+
+## 📊 Demonstração
 ![gif_bot](https://github.com/user-attachments/assets/aab93f66-584c-4ba6-8bc5-2b77deee481c)
