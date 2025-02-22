@@ -1,7 +1,7 @@
 # 🎯 Bot-Tiro-Ao-Alvo
 
 ## 📄 Descrição
-O Bot-Tiro-Ao-Alvo é uma aplicação de Visão Computacional desenvolvida para automatizar o jogo Mouse Accuracy.
+O Bot-Tiro-Ao-Alvo é uma aplicação de Visão Computacional desenvolvida para automatizar o jogo [Mouse Accuracy](https://mouseaccuracy.com/).
 O bot detecta os alvos na tela e clica automaticamente à medida que eles aparecem, proporcionando uma pontuação impressionante no jogo!
 
 ## 🚀 Tecnologias Utilizadas
