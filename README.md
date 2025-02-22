@@ -6,9 +6,9 @@ O bot detecta os alvos na tela e clica automaticamente à medida que eles aparec
 
 ## 🚀 Tecnologias Utilizadas
 - **Visão Computacional:** OpenCV
-- **Automação de Interface:** pyautogui
-- **Controle de Teclado:** keyboard
-- **Manipulação de Imagem:** pillow
+- **Automação de Interface:** PyAutoGUI
+- **Controle de Teclado:** Keyboard
+- **Manipulação de Imagens:** Pillow
 
 # 📦 Instalação das Dependências
 pip install -r requirements.txt
