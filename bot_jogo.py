@@ -26,7 +26,7 @@ while True:
     if keyboard.is_pressed('esc'):
         break
 
-    # tirando print da tela (nao salva em nenhum lugar)
+    # tirando print da tela
     print_tela = cv.cvtColor(np.array(pyautogui.screenshot()), cv.COLOR_RGB2BGR)
 
     # encontrando todos os alvos possiveis
